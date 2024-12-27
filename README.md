@@ -1,4 +1,4 @@
-# API-APEX---TML
+# APEX-TML
 Este repositório contém documentos técnicos e materiais de apoio relacionados com a APEX implementada na TML. O foco está nos detalhes técnicos dos arquivos e em conteúdos complementares que auxiliam na configuração e operação do sistema APEX.
 Documentos Técnicos
 
